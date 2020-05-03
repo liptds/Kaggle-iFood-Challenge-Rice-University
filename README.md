@@ -26,4 +26,5 @@ Generate the prediction on test set. Using ensemble method
     get_test_data: Get test data from three types of data pre-processing.
     print_predict: Print prediction, using ensemble method. 
     
-    
+Poster.key:
+Poster for this project
