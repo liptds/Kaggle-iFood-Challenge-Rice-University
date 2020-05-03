@@ -28,3 +28,6 @@ Generate the prediction on test set. Using ensemble method
     
 Poster.key:
 Poster for this project
+
+Report.pdf:
+Detail description of the whole project.
