@@ -1,7 +1,7 @@
 # Kaggle-iFood-Challenge-Rice-University
 Detail description is here: https://www.kaggle.com/c/ifood-rice/overview
-ifood_train.ipynb:
-Conatin the code for training.
+
+ifood_train.ipynb: Conatin the code for training.
 
 Data:
     imagDataset: Class. Load the data 
